@@ -1,0 +1,8 @@
+[project]
+name = "halo-teacache"
+description = "AMD Unified Memory TeaCache for LTX2 - no CPU offload, cache stays on GPU"
+version = "1.0.0"
+license = "MIT"
+
+[project.urls]
+Repository = "https://github.com/bkpaine1/Halo-TeaCache"
